@@ -1,0 +1,12 @@
+{
+  "name": "reckit-sdet-api-tests",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "jest": "^29.0.0",
+    "supertest": "^6.0.0"
+  }
+}
